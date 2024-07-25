@@ -3,7 +3,7 @@
 
 - XAMPP : https://www.apachefriends.org
 - VS code : https://code.visualstudio.com/download
-- 
+
 ## Step 2 : writing code
 ````
 <!DOCTYPE html>
